@@ -11,7 +11,7 @@ Autore: Margherita Lavagnini
 
 ## Introduzione e tema
 Il progetto “My colorful gallery” è un’innovativa visualizzazione di immagini che esplora il concetto di ordinamento dei colori. Questa pagina web presenta una serie di immagini organizzate in una griglia, ognuna delle quali appare su uno sfondo che corrisponde al suo colore principale. L'interazione dell'utente è arricchita da un effetto di transizione: quando si passa il mouse su un’immagine, questa diventa visibile, rivelando il suo contenuto.
-Il fulcro del progetto è l’algoritmo di ordinamento dei colori. Le immagini vengono ordinate in base alla tonalità, saturazione e luminanza del loro colore principale, calcolate a partire dal formato esadecimale del colore. Questo ordinamento, che va dalle immagini più scure a quelle più chiare, offre una visualizzazione affascinante e intuitiva del concetto di ordinamento dei colori.
+Il fulcro del progetto è l’algoritmo di ordinamento dei colori. Le immagini vengono ordinate in base alla tonalità, saturazione e luminanza del loro colore principale, calcolate a partire dal formato esadecimale del colore. Questo ordinamento offre una visualizzazione affascinante e intuitiva del concetto di ordinamento dei colori.
 Le immagini utilizzate nel progetto sono caricate da un file JSON, che contiene informazioni sul colore principale di ciascuna immagine. Questo metodo consente di gestire facilmente grandi set di immagini e di aggiornare la visualizzazione in modo dinamico.
 
 ## Riferimenti progettuali
@@ -27,7 +27,7 @@ Il sito web presenta un titolo "My colorful gallery" su uno sfondo bianco. Gli u
 
 
 ## Tecnologia usata
-Il codice HTML e JavaScript fornito mostra l'implementazione di un'applicazione web per la visualizzazione e l'ordinamento delle immagini in base alla luminosità, saturazione e tinta dei colori presenti in ciascuna immagine.L'HTML viene utilizzato per definire la struttura della pagina web. Viene fornita una struttura di base con intestazioni, paragrafi e un'area principale per visualizzare le immagini.
+Il codice HTML e JavaScript fornito mostra l'implementazione di un'applicazione web per la visualizzazione e l'ordinamento delle immagini in base alla luminosità, saturazione e tinta dei colori presenti in ciascuna di esse.
 Il codice JavaScript fornisce la logica dietro il funzionamento dell'applicazione. Utilizzando fetch(), il codice accede a un file JSON contenente i dati delle immagini e delle loro palette cromatiche. Successivamente, le immagini vengono ordinate in base alla tinta, saturazione e luminosità dei colori utilizzando le funzioni hexToHue(), hexToSaturation() e rgbToLum(). Infine, viene generato il markup HTML dinamicamente per visualizzare le immagini e le loro palette cromatiche all'interno dell'elemento main della pagina.
 Mentre invece per qunato riguarda i dati delle immagini e delle loro palette cromatiche essi sono memorizzati in un file JSON, che viene caricato tramite fetch() per essere utilizzato nell'applicazione.
 
@@ -97,4 +97,4 @@ function hexToRgb(hex) {
 
 
 ## Target e contesto d’uso
- "My colorful gallery" si presenta come uno strumento innovativo e versatile che unisce creatività e tecnologia, offrendo agli utenti la possibilità di esplorare e apprezzare le immagini in modo creativo e informativo attraverso l'analisi delle loro caratteristiche cromatiche. Dunque questo sito è rivolto a chiunque sia interessato a visualizzare le proprie immagini sotto forma di palette cromatica. 
+ "My colorful gallery" si presenta come uno strumento innovativo e versatile che unisce creatività e tecnologia, offrendo agli utenti la possibilità di esplorare e apprezzare le immagini in modo creativo e informativo attraverso l'analisi delle loro caratteristiche cromatiche. Dunque questo sito è rivolto a chiunque sia interessato a visualizzare le proprie immagini sotto forma di palette cromatica e anche a chi piace ordinare compulsivamente i colori ;).

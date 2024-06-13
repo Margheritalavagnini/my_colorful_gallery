@@ -27,7 +27,7 @@ Il sito web presenta un titolo "My colorful gallery" su uno sfondo bianco. Gli u
 
 
 ## Tecnologia usata
-Il codice HTML e JavaScript fornito mostra l'implementazione di un'applicazione web per la visualizzazione e l'ordinamento delle immagini in base alla luminosità, saturazione e tinta dei colori presenti in ciascuna immagine.L'HTML viene utilizzato per definire la struttura della pagina web. Viene fornita una struttura di base con intestazioni, paragrafi e un'area principale per visualizzare le immagini.
+Il codice HTML e JavaScript fornito mostra l'implementazione di un'applicazione web per la visualizzazione e l'ordinamento delle immagini in base alla luminosità, saturazione e tinta dei colori presenti in ciascuna di esse.
 Il codice JavaScript fornisce la logica dietro il funzionamento dell'applicazione. Utilizzando fetch(), il codice accede a un file JSON contenente i dati delle immagini e delle loro palette cromatiche. Successivamente, le immagini vengono ordinate in base alla tinta, saturazione e luminosità dei colori utilizzando le funzioni hexToHue(), hexToSaturation() e rgbToLum(). Infine, viene generato il markup HTML dinamicamente per visualizzare le immagini e le loro palette cromatiche all'interno dell'elemento main della pagina.
 Mentre invece per qunato riguarda i dati delle immagini e delle loro palette cromatiche essi sono memorizzati in un file JSON, che viene caricato tramite fetch() per essere utilizzato nell'applicazione.
 

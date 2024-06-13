@@ -97,4 +97,4 @@ function hexToRgb(hex) {
 
 
 ## Target e contesto d’uso
- "My colorful gallery" si presenta come uno strumento innovativo e versatile che unisce creatività e tecnologia, offrendo agli utenti la possibilità di esplorare e apprezzare le immagini in modo creativo e informativo attraverso l'analisi delle loro caratteristiche cromatiche. Dunque questo sito è rivolto a chiunque sia interessato a visualizzare le proprie immagini sotto forma di palette cromatica. 
+ "My colorful gallery" si presenta come uno strumento innovativo e versatile che unisce creatività e tecnologia, offrendo agli utenti la possibilità di esplorare e apprezzare le immagini in modo creativo e informativo attraverso l'analisi delle loro caratteristiche cromatiche. Dunque questo sito è rivolto a chiunque sia interessato a visualizzare le proprie immagini sotto forma di palette cromatica e anche a chi piace ordinare compulsivamente i colori ;).

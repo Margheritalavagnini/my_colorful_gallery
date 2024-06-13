@@ -14,7 +14,6 @@ Il progetto “My colorful gallery” è un’innovativa visualizzazione di imma
 Il fulcro del progetto è l’algoritmo di ordinamento dei colori. Le immagini vengono ordinate in base alla tonalità, saturazione e luminanza del loro colore principale, calcolate a partire dal formato esadecimale del colore. Questo ordinamento, che va dalle immagini più scure a quelle più chiare, offre una visualizzazione affascinante e intuitiva del concetto di ordinamento dei colori.
 Le immagini utilizzate nel progetto sono caricate da un file JSON, che contiene informazioni sul colore principale di ciascuna immagine. Questo metodo consente di gestire facilmente grandi set di immagini e di aggiornare la visualizzazione in modo dinamico.
 
-
 ## Riferimenti progettuali
 Per questo progetto, mi sono ispirata alla visualizzazione cromatica utilizzata da Pantone nelle sue campagne. Pantone, attraverso una rappresentazione cromatica distintiva, promuove le bellezze naturali e culturali, suscitando il mio interesse per l'uso creativo del colore nella comunicazione visiva. Il loro modo di catturare l'essenza e l'identità di un luogo attraverso una palette di colori accuratamente selezionata ha stimolato la mia curiosità e il desiderio di esplorare approcci simili nel mio progetto.
 L'idea di utilizzare il colore come veicolo per trasmettere un senso di luogo e di esperienza mi ha affascinato. Osservando come Pantone traduce la bellezza e la diversità dei luoghi in una gamma di tonalità cromatiche, mi sono chiesta come potessi applicare concetti simili alla mia galleria di immagini. La capacità di catturare l'atmosfera e l'emozione di un luogo attraverso la scelta dei colori mi ha spinto a esplorare come reinterpretare visivamente le mie immagini, enfatizzando le sfumature e le tonalità che le definiscono.
@@ -99,5 +98,3 @@ function hexToRgb(hex) {
 
 ## Target e contesto d’uso
  "My colorful gallery" si presenta come uno strumento innovativo e versatile che unisce creatività e tecnologia, offrendo agli utenti la possibilità di esplorare e apprezzare le immagini in modo creativo e informativo attraverso l'analisi delle loro caratteristiche cromatiche. Dunque questo sito è rivolto a chiunque sia interessato a visualizzare le proprie immagini sotto forma di palette cromatica. 
-
-[<img src="doc/munari.jpg" width="300" alt="Supplemento al dizionario italiano">]()

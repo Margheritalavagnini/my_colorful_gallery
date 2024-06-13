@@ -6,7 +6,7 @@ Elaborato 3: My colorful gallery
 
 # My colorful gallery
 Autore: Margherita Lavagnini  
-[MediaPipe demo-ES6](https://margheritalavagnini.github.io/moody/index.html)
+[MediaPipe demo-ES6](https://margheritalavagnini.github.io/my_colorful_gallery/)
 
 
 ## Introduzione e tema

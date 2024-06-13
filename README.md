@@ -25,7 +25,6 @@ Il sito web presenta un titolo "My colorful gallery" su uno sfondo bianco. Gli u
 [<img src="doc/Lavagnini-Margherita_MOODY-progetto_02.jpg" width="200">]()
 [<img src="doc/Lavagnini-Margherita_MOODY-progetto_03.jpg" width="200">]()
 
-
 ## Tecnologia usata
 Il codice HTML e JavaScript fornito mostra l'implementazione di un'applicazione web per la visualizzazione e l'ordinamento delle immagini in base alla luminosità, saturazione e tinta dei colori presenti in ciascuna di esse.
 Il codice JavaScript fornisce la logica dietro il funzionamento dell'applicazione. Utilizzando fetch(), il codice accede a un file JSON contenente i dati delle immagini e delle loro palette cromatiche. Successivamente, le immagini vengono ordinate in base alla tinta, saturazione e luminosità dei colori utilizzando le funzioni hexToHue(), hexToSaturation() e rgbToLum(). Infine, viene generato il markup HTML dinamicamente per visualizzare le immagini e le loro palette cromatiche all'interno dell'elemento main della pagina.

@@ -11,7 +11,7 @@ Autore: Margherita Lavagnini
 
 ## Introduzione e tema
 Il progetto “My colorful gallery” è un’innovativa visualizzazione di immagini che esplora il concetto di ordinamento dei colori. Questa pagina web presenta una serie di immagini organizzate in una griglia, ognuna delle quali appare su uno sfondo che corrisponde al suo colore principale. L'interazione dell'utente è arricchita da un effetto di transizione: quando si passa il mouse su un’immagine, questa diventa visibile, rivelando il suo contenuto.
-Il fulcro del progetto è l’algoritmo di ordinamento dei colori. Le immagini vengono ordinate in base alla tonalità, saturazione e luminanza del loro colore principale, calcolate a partire dal formato esadecimale del colore. Questo ordinamento, che va dalle immagini più scure a quelle più chiare, offre una visualizzazione affascinante e intuitiva del concetto di ordinamento dei colori.
+Il fulcro del progetto è l’algoritmo di ordinamento dei colori. Le immagini vengono ordinate in base alla tonalità, saturazione e luminanza del loro colore principale, calcolate a partire dal formato esadecimale del colore. Questo ordinamento offre una visualizzazione affascinante e intuitiva del concetto di ordinamento dei colori.
 Le immagini utilizzate nel progetto sono caricate da un file JSON, che contiene informazioni sul colore principale di ciascuna immagine. Questo metodo consente di gestire facilmente grandi set di immagini e di aggiornare la visualizzazione in modo dinamico.
 
 ## Riferimenti progettuali

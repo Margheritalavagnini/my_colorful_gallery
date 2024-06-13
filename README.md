@@ -22,7 +22,9 @@ L'idea di utilizzare il colore come veicolo per trasmettere un senso di luogo e 
 
 ## Design dell’interfraccia e modalià di interazione
 Il sito web presenta un titolo "My colorful gallery" su uno sfondo bianco. Gli utenti tramite un tasto posizionato in basso a sinsitra possono mostrare la visualizzazione della galleria; uno scroll verticale permette di visualizzare tuttle immagini sottoforma di palette colori, ma passando sulle caselle, con un effetto mouseover vengono mostrate le immagini. È presente una sola pagina su cui l'utenete puo muoversi. 
-[<img src="doc/cards.gif" width="500" alt="Magic trick">]()
+[<img src="doc/Screenshot_01.png" width="200">]()
+[<img src="doc/Screenshot_02.png" width="200">]()
+[<img src="doc/Screenshot_03.png" width="200">]()
 
 
 ## Tecnologia usata
